@@ -8,6 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.svm import SVC
 
+
 def init():
     # 加载iris数据集
     iris = load_iris()
